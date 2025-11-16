@@ -28,7 +28,7 @@ The simulation helps visualize how a 4–20 mA electrical input signal is conver
 ## Files
 - `IP_Converter.m` — MATLAB script for linear and dynamic simulation
 - `IP_Converter_Plots.png` — Sample plots of linear and dynamic responses
-- `IP_Converter_Report.pdf` — Optional PDF report with theory, results, and observations
+
 
 ---
 
@@ -43,6 +43,5 @@ The simulation helps visualize how a 4–20 mA electrical input signal is conver
 ---
 
 ## References
-- Ergun equation for pressure drop calculations (if applicable in PDC extension)
 - Basic control system theory for first-order actuator response
 - MATLAB documentation for plotting and numerical simulations
